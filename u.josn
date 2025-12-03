@@ -1,10 +1,10 @@
 {
   "version": "1.0.2",
-  "apkUrl": "https://github.com/hamza4app2vip/VPNSA/releases/download/v0.2.0-alpha/FirewallUp.apk",
-  "sizeBytes": 52428800,
+  "apkUrl": "https://github.com/hamza4app2vip/UPDATE_zinab/releases/download/1.0.0/58app-release.apk",
+  "sizeBytes": 33554432,
   "changelog": [
-    "تسريع التحقق من التحديث وتحسين الاستقرار.",
-    "توضيح الإصدار الحالي والجديد قبل التثبيت.",
+    "تغير واضافات جديدة للتطبيق.",
+    "تقنية تشفير جديدة.",
     "تحسين موثوقية التنزيل ومعالجة أخطاء الاتصال."
   ],
   "update_available": {
