@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "1.0.1",
   "apkUrl": "https://github.com/hamza4app2vip/UPDATE_zinab/releases/download/1.0.0/58app-release.apk",
   "sizeBytes": 34571550,
   "changelog": [
@@ -15,7 +15,7 @@
   "update_available": {
     "title": "يتوفر تحديث جديد",
     "message": "قم بتنزيل آخر إصدار للاستمرار في استخدام التطبيق مع أحدث التحسينات.",
-    "title_en": "A new update is available ha",
+    "title_en": "A new update is available",
     "message_en": "Download the latest release to keep using the app with the newest improvements.",
     "icon": "assets/images/logo.png",
     "color": "#0F172A"
@@ -44,5 +44,6 @@
       "Better experience when resuming interrupted downloads."
     ],
     "color": "#5C63F5"
-  }
+  },
+  "auto_prompt": true
 }
